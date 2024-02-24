@@ -1,0 +1,28 @@
+C:\Users\Public\Documents\repositorio Esdras\bin\Debug\net8.0\repositorio Esdras.exe
+C:\Users\Public\Documents\repositorio Esdras\bin\Debug\net8.0\repositorio Esdras.deps.json
+C:\Users\Public\Documents\repositorio Esdras\bin\Debug\net8.0\repositorio Esdras.runtimeconfig.json
+C:\Users\Public\Documents\repositorio Esdras\bin\Debug\net8.0\repositorio Esdras.dll
+C:\Users\Public\Documents\repositorio Esdras\bin\Debug\net8.0\repositorio Esdras.pdb
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\repositorio Esdras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\repositorio Esdras.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\repositorio Esdras.AssemblyInfo.cs
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\repositorio Esdras.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\repositorio Esdras.dll
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\refint\repositorio Esdras.dll
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\repositorio Esdras.pdb
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\repositorio Esdras.genruntimeconfig.cache
+C:\Users\Public\Documents\repositorio Esdras\obj\Debug\net8.0\ref\repositorio Esdras.dll
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\bin\Debug\net8.0\repositorio Esdras.exe
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\bin\Debug\net8.0\repositorio Esdras.deps.json
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\bin\Debug\net8.0\repositorio Esdras.runtimeconfig.json
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\bin\Debug\net8.0\repositorio Esdras.dll
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\bin\Debug\net8.0\repositorio Esdras.pdb
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\repositorio Esdras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\repositorio Esdras.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\repositorio Esdras.AssemblyInfo.cs
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\repositorio Esdras.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\repositorio Esdras.dll
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\refint\repositorio Esdras.dll
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\repositorio Esdras.pdb
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\repositorio Esdras.genruntimeconfig.cache
+C:\Users\Public\Documents\repositorio Esdras\Practica 4 pensamiento computacional\obj\Debug\net8.0\ref\repositorio Esdras.dll
