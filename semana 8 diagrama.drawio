@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T05:05:43.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="qbrudINAV2QNg89ZVFQs" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T05:06:43.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Hu5hUlvDtsL02w_uA8Co" version="24.0.0" type="github">
   <diagram name="Página-1" id="qJfyfa8ZmQrKOW-pCiXK">
     <mxGraphModel dx="1737" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="KSEiXqQ_mU-Ne6AkFKhL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KSEiXqQ_mU-Ne6AkFKhL-5" target="KSEiXqQ_mU-Ne6AkFKhL-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KSEiXqQ_mU-Ne6AkFKhL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KSEiXqQ_mU-Ne6AkFKhL-5" target="KSEiXqQ_mU-Ne6AkFKhL-27">
+        <mxCell id="KSEiXqQ_mU-Ne6AkFKhL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="KSEiXqQ_mU-Ne6AkFKhL-5" target="KSEiXqQ_mU-Ne6AkFKhL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KSEiXqQ_mU-Ne6AkFKhL-5" value="Desde &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;i&lt;/font&gt;&lt;/b&gt; = 1&lt;div&gt;Hasta &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;i&lt;/b&gt; &lt;/font&gt;&amp;lt;=&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;num&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;incremento 1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
