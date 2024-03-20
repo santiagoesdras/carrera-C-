@@ -1,69 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T16:42:05.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="bWV1Nf0M9BVSjs5eR0-8" version="23.1.7" type="github">
-  <diagram name="Página-1" id="d5BYfHUM9og9XDYuDI9H">
-    <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-03-20T13:17:21.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.7" etag="h-Ytp4CqyCXXiIXsFELD" type="github">
+  <diagram name="Página-1" id="qIFmQcom8rDrrdhVU6A-">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7zvD89VX19Bi5t2Hy57-1" target="B7zvD89VX19Bi5t2Hy57-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-1" value="Simulador de Carreras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7zvD89VX19Bi5t2Hy57-2" target="B7zvD89VX19Bi5t2Hy57-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7zvD89VX19Bi5t2Hy57-2" target="B7zvD89VX19Bi5t2Hy57-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-2" value="Desde par = 1&lt;br&gt;Hasta&amp;nbsp; par&amp;lt;4&lt;br&gt;Incremento 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="120" width="170" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7zvD89VX19Bi5t2Hy57-9" target="B7zvD89VX19Bi5t2Hy57-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-9" value="Solicitar Distancia de la carrera" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7zvD89VX19Bi5t2Hy57-11" target="B7zvD89VX19Bi5t2Hy57-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-11" value="Validar cual es el corredor mas rápido y cual es el corredor mas lento." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="523" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7zvD89VX19Bi5t2Hy57-13" target="B7zvD89VX19Bi5t2Hy57-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-13" value="Validar en cuanto tiempo corren la carrera el corredor mas rápido y el corredor mas lento." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="623" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="571" as="sourcePoint" />
-            <mxPoint x="410" y="531" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-17" value="Mostrar en Consola que corredor es el ganador y que corredor es el perdedor y en cuanto tiempo corrieron la carrera." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="613" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7zvD89VX19Bi5t2Hy57-19" target="B7zvD89VX19Bi5t2Hy57-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-19" value="Fin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="513" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B7zvD89VX19Bi5t2Hy57-23" target="B7zvD89VX19Bi5t2Hy57-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="201" y="410" />
-              <mxPoint x="201" y="205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B7zvD89VX19Bi5t2Hy57-23" value="Solicitar Velocidad Promedio y Nombre del corredor no.{par}" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="360" width="200" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
