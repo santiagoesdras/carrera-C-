@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T03:47:28.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.0.7" etag="dlwWA0u6FTvMyx-usxrS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T03:57:11.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="CQ1B_WGG2FFK7CDJKLq6" version="24.0.7" type="github">
   <diagram name="Página-1" id="0H9bTQsKVAGwVWxtF-Ph">
-    <mxGraphModel>
+    <mxGraphModel dx="1603" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqw_PaQ1Ie9EB66eMizC-1" target="Gqw_PaQ1Ie9EB66eMizC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-1" value="Medir 40 mL de vinagre con la probeta de 50 mL." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqw_PaQ1Ie9EB66eMizC-2" target="Gqw_PaQ1Ie9EB66eMizC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-2" value="Inicio." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqw_PaQ1Ie9EB66eMizC-3" target="Gqw_PaQ1Ie9EB66eMizC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-3" value="Anotar la masa teórica de bicarbonato de sodio de la pastilla." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqw_PaQ1Ie9EB66eMizC-4" target="Gqw_PaQ1Ie9EB66eMizC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-4" value="Colocar la pastilla de Alka-Seltzer en un beaker de 250 mL." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqw_PaQ1Ie9EB66eMizC-5" target="Gqw_PaQ1Ie9EB66eMizC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-5" value="Medir la masa del conjunto (probeta + vinagre) y (beaker + pastilla) en la balanza digital." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="370" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqw_PaQ1Ie9EB66eMizC-6" target="Gqw_PaQ1Ie9EB66eMizC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-6" value="Verter los 40 mL de vinagre en el beaker con la pastilla de Alka-Seltzer." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="470" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqw_PaQ1Ie9EB66eMizC-7" target="Gqw_PaQ1Ie9EB66eMizC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-7" value="Esperar aproximadamente 10 minutos para que ocurra la reacción química." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqw_PaQ1Ie9EB66eMizC-8" target="Gqw_PaQ1Ie9EB66eMizC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-8" value="&lt;div&gt;Medir la masa del conjunto (probeta vacía) y (beaker + solución resultante) en la balanza digital.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="680" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqw_PaQ1Ie9EB66eMizC-18" value="Fin." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
